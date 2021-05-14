@@ -1,0 +1,40 @@
+{
+  "CarloMagno":
+    {
+      "carlo magno": "Esatto hai indovinato! Stavo pensando proprio a Carlo Magno!",
+      "il grande": "Giusto, questo è il suo titolo",
+      "ottavo secolo": "Corretto! quello è il periodo giusto",
+      "imperatore": "Oh sì! è corretto era un imperatore!",
+      "impero": "Giusto, questo era il suo titolo",
+      "francia": "Si, è dove ha vissuto",
+      "europa": "Si, è dove ha vissuto",
+      "incoronazione" : "Esatto, questo è il motivo!"
+    },
+  "PrimaCrociata":
+    {
+      "prima crociata": "Hai indovinato! Stavo pensando proprio alla prima Crociata!",
+      "undicesimo secolo": "Giusto! L'evento si è svolto allora",
+      "terra santa": " Corretto! Questo è il motivo per cui si è svolta",
+      "papa urbano ii": "Giusto! è colui che ha indetto l'evento",
+      "religione": "Oh sì, questa è la motivazione dell'evento",
+      "gerusalemme": "Si, è proprio dove è avvenuto"
+    },
+    "ScismaOriente":
+    {
+      "scisma oriente":"Esatto hai indovinato! Stavo pensando proprio allo Scisma d'Oriente!",
+      "grande scisma": "Esatto, è così che viene anche chiamato",
+      "undicesimo secolo": "Corretto! quello è il periodo giusto",
+      "papa leone ix": "Giusto! costui è coinvolto in quello che sto pensando!",
+      "religione": "Giusto! è il motivo dell'evento",
+      "roma": "Si, è il luogo giusto!"
+    },
+    "CadutaImperoOccidente":
+    {
+      "caduta impero romano occidente":"Esatto hai indovinato! Stavo pensando proprio alla caduta dell'Impero romano d'Occidente!",
+      "impero": "Giusto, questo è come era chiamato",
+      "quinto secolo": "Corretto! quello è il periodo giusto",
+      "romolo augusto": "Oh sì, costui è legato a ciò che sto pensando",
+      "roma": "Sì, il posto è giusto",
+      "barbari": "Giusto! è legato all'argomento "
+    }
+}
